@@ -64,5 +64,5 @@ This app uses the **Google AI Studio** for language model queries. You need an A
 - [Build a Q&A App for a webpage](https://swethag04.medium.com/build-a-q-a-app-for-a-webpage-431b7b8220e6)
 - [Mastering Prompt Templates in LangChain](https://medium.com/@abdullah.iu.cse/mastering-prompt-templates-in-langchain-3f48fa92327f)
 - [Building a Private Data-Driven Question-Answering System with Large Language Models](https://medium.com/@nbasatish/building-a-private-data-driven-question-answering-system-with-large-language-models-a0b4d4c2385c)
-- [Build a Simple LLM Application with](LCEL https://python.langchain.com/v0.2/docs/tutorials/llm_chain/)
+- [Build a Simple LLM Application with LCEL](https://python.langchain.com/v0.2/docs/tutorials/llm_chain/)
 - [Quickstart (Local) | Gen AI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/local_quickstart/)
